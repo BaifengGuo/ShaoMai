@@ -19,7 +19,7 @@ s.platform   = :ios, '4.3'
 # s.osx.deployment_target = '10.7'
 s.requires_arc = true
 
-s.source_files  = "ShaoMai/**/*.{h,m}"
+s.source_files  = "ShaoMai/ShaoMai/Core/*.{h,m}"
 s.exclude_files = "Classes/Exclude" #排除不需要的文件
 # s.resources = 'Assets'
 
