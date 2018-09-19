@@ -17,6 +17,7 @@
 		8429874021523B8B00FA628D /* asfsdfViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8429873F21523B8B00FA628D /* asfsdfViewController.m */; };
 		8429874321523B9600FA628D /* sasffadfdfViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8429874221523B9600FA628D /* sasffadfdfViewController.m */; };
 		8429874621523BA200FA628D /* asdfdsfViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8429874521523BA200FA628D /* asdfdsfViewController.m */; };
+		8429874A21523D4D00FA628D /* jiushsioaifsfdfViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8429874921523D4D00FA628D /* jiushsioaifsfdfViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,8 @@
 		8429874221523B9600FA628D /* sasffadfdfViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = sasffadfdfViewController.m; sourceTree = "<group>"; };
 		8429874421523BA200FA628D /* asdfdsfViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = asdfdsfViewController.h; sourceTree = "<group>"; };
 		8429874521523BA200FA628D /* asdfdsfViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = asdfdsfViewController.m; sourceTree = "<group>"; };
+		8429874821523D4D00FA628D /* jiushsioaifsfdfViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = jiushsioaifsfdfViewController.h; sourceTree = "<group>"; };
+		8429874921523D4D00FA628D /* jiushsioaifsfdfViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = jiushsioaifsfdfViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +73,7 @@
 		8429872021522CE000FA628D /* NewShaoMai */ = {
 			isa = PBXGroup;
 			children = (
+				8429874721523D3400FA628D /* wo */,
 				8429873721522D0900FA628D /* New */,
 				8429872121522CE000FA628D /* AppDelegate.h */,
 				8429872221522CE000FA628D /* AppDelegate.m */,
@@ -113,6 +117,15 @@
 				8429874221523B9600FA628D /* sasffadfdfViewController.m */,
 			);
 			path = datatss;
+			sourceTree = "<group>";
+		};
+		8429874721523D3400FA628D /* wo */ = {
+			isa = PBXGroup;
+			children = (
+				8429874821523D4D00FA628D /* jiushsioaifsfdfViewController.h */,
+				8429874921523D4D00FA628D /* jiushsioaifsfdfViewController.m */,
+			);
+			path = wo;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -187,6 +200,7 @@
 			files = (
 				8429872621522CE000FA628D /* ViewController.m in Sources */,
 				8429874021523B8B00FA628D /* asfsdfViewController.m in Sources */,
+				8429874A21523D4D00FA628D /* jiushsioaifsfdfViewController.m in Sources */,
 				8429873121522CE000FA628D /* main.m in Sources */,
 				8429872321522CE000FA628D /* AppDelegate.m in Sources */,
 				8429874621523BA200FA628D /* asdfdsfViewController.m in Sources */,
